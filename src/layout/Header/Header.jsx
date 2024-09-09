@@ -1,8 +1,8 @@
-import logoIcon from "../assets/logo.png";
-import searchIcon from "../assets/search-icon.png";
-import favoriteIcon from "../assets/favorite-icon.png";
-import wave1 from "../assets/wave1.png";
-import wave2 from "../assets/wave2.png";
+import logoIcon from "../../assets/logo.png";
+import searchIcon from "../../assets/search-icon.png";
+import favoriteIcon from "../../assets/favorite-icon.png";
+import wave1 from "../../assets/wave1.png";
+import wave2 from "../../assets/wave2.png";
 
 function Header() {
   return (
