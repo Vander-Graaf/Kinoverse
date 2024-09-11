@@ -1,7 +1,7 @@
 import "../../layout/Header/Header.css";
-import logoIcon from "../../assets/logo.png";
-import searchIcon from "../../assets/search-icon.png";
-import favoriteIcon from "../../assets/favorite-icon.png";
+import logoIcon from "../../assets/icons/logo.png";
+import searchIcon from "../../assets/icons/search-icon.png";
+import favoriteIcon from "../../assets/icons/favorite-icon.png";
 
 import Wave from "../../components/elements/Wave/Wave.jsx";
 

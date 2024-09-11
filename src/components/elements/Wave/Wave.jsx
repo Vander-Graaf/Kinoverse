@@ -1,5 +1,5 @@
-import wave1 from "../../../assets/wave1.png";
-import wave2 from "../../../assets/wave2.png";
+import wave1 from "../../../assets/images/wave1.png";
+import wave2 from "../../../assets/images/wave2.png";
 
 import styles from "./Wave.module.css";
 

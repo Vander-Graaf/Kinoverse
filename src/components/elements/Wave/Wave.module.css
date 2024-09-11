@@ -1,12 +1,14 @@
 .wave {
   position: relative;
   margin-top: 10px;
+  z-index: 15;
 }
 
 .reversed_wave {
   position: relative;
   margin-top: 10px;
   transform: rotate(180deg);
+  z-index: 15;
 }
 
 .wave_image {
